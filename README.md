@@ -1,0 +1,2 @@
+Database: mysql
+ORM: Prisma
